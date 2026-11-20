@@ -14,7 +14,7 @@ IvorySQL 基于开源[PostgreSQL](https://github.com/postgres/postgres)数据库
 
 IvorySQL 项目采用 Apache 2.0 许可协议发布，并鼓励各种形式的社区贡献。在 IvorySQL 社区中，每一份贡献都至关重要，我们由衷感谢所有社区贡献者的支持！
 
-</br>
+<br/>
 
 ## 开发者代码格式化
 - 提交前自动格式化（推荐）：
